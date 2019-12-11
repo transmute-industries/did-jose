@@ -2,6 +2,11 @@
 
 Based on [did:key](https://github.com/digitalbazaar/did-method-key-js)
 
+This was created to help understand / support the discussion happening on:
+
+- https://github.com/w3c/did-core/issues/140
+- https://github.com/w3c/did-core/issues/128
+
 ## Getting Started
 
 ```
